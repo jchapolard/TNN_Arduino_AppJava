@@ -1,0 +1,26 @@
+Etapes du projet :
+
+- Côté Application :
+1. Création d'un appareil de test sur TTN (The Things NetWork)
+2. Récupération des données sur une base en json : 
+    FiseBase : https://fire-jcd1985.firebaseio.com/appareils
+3. Création d'un projet java : Servlet + Méthode décupération des données
+4. Affichage des données en asynchrone (Ajax) sur une page html avec un tableau dynamic en javaScript
+5. Création d'un page Login
+6. Mise en place d'une base de données mySQL
+   - Table : client (id, nom, prénom, mot de passe Hash), appareil (id, app_id, name, valeur, date d'ajout)
+7. affichage des appareils en fonction du client
+
+
+0688227951
+0184886682 Marie Coelle société ODENSELLE
+Celine de Bofor 0607894105
+3/5 Mme Richard Elvetika partner mission sur Geneve Dev FS sur +41 (0)78 218 98 35
+5/5 
+
+API Assistance Pro INFORMATIQUE
+Ete Familliale depuis 30 ans
+CIO Mr Botts
+70 collaboratieurs 50% interne
+Pole testing / Pole Developpement / Pole Pilotage Gestion de Projet
+Client PME et Etatique
